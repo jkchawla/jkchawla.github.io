@@ -493,11 +493,7 @@ a.button {
 .cat.f01 {
     background-image: url(../shapes/shapes00001.png);
 }
-.cat.f01:hover {
-    background-image: url(../shapes/rsz_imgonline-com-ua-shape-t4asqakqh9kgipp.png);
-    background-size: 252px 253px;
-    color: white;
-}
+
 
 /* line 413, ../sass/screen.scss */
 .cat.f02 {
